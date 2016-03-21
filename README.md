@@ -1,5 +1,4 @@
 # Front-End Nanodegree Arcade Game
-===============================
 
 ## Description:
 This is a clone of the Frogger game built mainly to practice Object-Oriented JavaScript and HTML5 Canvas techniques. In this game you have a Player and enemy bugs crossing a road at various speeds.
