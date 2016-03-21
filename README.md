@@ -10,3 +10,6 @@ The goal of the player is to reach the other side by crossing the road and go in
 
 ## Usage - How to play:
 The game is played using the arrow keys and you can move up, down, left and right.
+
+## Running Instructions:
+To play this game, download the project to your computer, double-click on index.html to open it on your default browser, and enjoy the game!
