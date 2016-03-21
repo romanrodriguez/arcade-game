@@ -13,3 +13,6 @@ The game is played using the arrow keys and you can move up, down, left and righ
 
 ## Running Instructions:
 To play this game, download the project to your computer, double-click on index.html to open it on your default browser, and enjoy the game!
+
+## Time Countdown:
+There is a simple timer with 30 seconds on it. You can refresh your browser to re-initiate it. I'll be improving its interactivity shortly.
